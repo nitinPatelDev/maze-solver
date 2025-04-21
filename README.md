@@ -1,4 +1,5 @@
 Maze Solver
+
 Problem Description
 The Maze Solver project aims to solve a given maze represented by a matrix of 1s and 0s, where 1 represents a wall and 0 represents a path. The objective is to convert this matrix into a graph, find the shortest path from the start point to the end point, and provide a complete traversal of the maze.
 
